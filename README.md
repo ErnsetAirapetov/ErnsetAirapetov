@@ -74,10 +74,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ErnsetAirapetov&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=ErnsetAirapetov&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ErnsetAirapetov&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErnsetAirapetov&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution Activity Graph" />
 
 > За последний год — **~2000 коммитов**. Основная работа ведётся в приватных репозиториях и зеркалится сюда из GitLab, поэтому публичных звёзд/PR немного — цифры отражают именно рабочую активность.
 
