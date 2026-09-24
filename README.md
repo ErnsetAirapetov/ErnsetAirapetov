@@ -78,7 +78,7 @@
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErnsetAirapetov&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph-seven.vercel.app/graph?username=ErnsetAirapetov&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution Activity Graph" />
 
 > За последний год — **~2000 коммитов**. Основная работа ведётся в приватных репозиториях и зеркалится сюда из GitLab, поэтому публичных звёзд/PR немного — цифры отражают именно рабочую активность.
 
